@@ -1,2 +1,6 @@
 Added sample text to check
+<<<<<<< HEAD
 again added few text for next commit
+=======
+second line
+>>>>>>> origin/main
